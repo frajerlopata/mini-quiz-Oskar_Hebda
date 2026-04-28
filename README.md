@@ -12,10 +12,10 @@ Aplikacja quizowa stworzona w Android Studio. Użytkownik odpowiada na pytania i
 ## Zrzuty ekranu
 
 ### Start
-![start](screenshots/start.png)
+![start](app/screenshots/start.png)
 
 ### Pytanie
-![question](screenshots/question.png)
+![question](app/screenshots/question.png)
 
 ### Wynik
-![result](screenshots/result.png)
+![result](app/screenshots/result.png)
